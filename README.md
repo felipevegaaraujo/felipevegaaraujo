@@ -9,8 +9,8 @@ I've been playing with computers since 1997 💻
 *   🌍  I'm based in San Francisco 🌁
 *   🖥️  See my portfolio at [felipevega.co](http://felipevega.co)
 *   ✉️  You can contact me at [felipevegaaraujo@hotmail.com](mailto:felipevegaaraujo@hotmail.com)
-*   🚀  I'm currently working on [LiveVox](http://www.livevox.com)
-*   🧠  I'm learning monorepos | nx
+*   🚀  I'm currently driving UX/UI/Mobile team at [LiveVox](http://www.livevox.com)
+*   🧠  I'm learning about monorepos | nx
 
 ### Skills
 
