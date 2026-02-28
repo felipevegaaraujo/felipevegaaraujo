@@ -1,7 +1,7 @@
 Hi 👋 my name is Felipe
 ============================
 
-Director of Engineering | UX Consultant | AI Advocate
+Director of Engineering | AI Engineer | Agentic workflow
 -----------------------------------
 
 I've been playing with computers since 1997 💻
@@ -9,8 +9,8 @@ I've been playing with computers since 1997 💻
 *   🌍  I'm based in San Francisco 🌁
 *   🖥️  See my portfolio at [felipevega.co](http://felipevega.co)
 *   ✉️  You can contact me at [felipevegaaraujo@hotmail.com](mailto:felipevegaaraujo@hotmail.com)
-*   🚀  I'm currently leading a team of top-notch software engineers responsible for the entire front-end of the platform, including the mobile (React Native) and desktop app (Electron) at [NICE](http://www.nice.com)
-*   🧠  I'm learning about RAG | Agents | monorepos | nx and React performant apps
+*   🚀  I'm currently leading a team of top-notch software engineers (humans) and a troop of ai agents responsible for the entire front-end of the platform, including the mobile (React Native) and desktop app (Electron) at [NICE](http://www.nice.com)
+*   🧠  I've been using agentic workflows since 2025
 
 ### Skills
 
